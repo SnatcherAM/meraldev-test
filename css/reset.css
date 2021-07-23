@@ -1,0 +1,34 @@
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    font-family: 'Noir Pro', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 136%;
+    color: var(--text-violet-dark);
+    background-color: #fff;
+    height: 100%;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}
+
+input {
+    outline: none;
+}
